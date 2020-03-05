@@ -36,9 +36,9 @@ for (let i= 0; i < arr2.length; i++) {
 
 
 if (points == 3) {
-  document.write("Je hebt alles goed");
+  document.write("Je hebt alles goed ");
 }else {
-    document.write("Je hebt een fout");
+    document.write("Je hebt een fout ");
 }
 
 document.write(points);
